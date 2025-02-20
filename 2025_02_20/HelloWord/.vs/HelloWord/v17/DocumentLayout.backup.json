@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_02_20\\HelloWord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29830EA1-5761-4B1E-AC61-3D10ED51362A}|HelloWord\\HelloWord.csproj|c:\\users\\shu\\desktop\\113_2_sharp\\2025_02_20\\helloword\\helloword\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29830EA1-5761-4B1E-AC61-3D10ED51362A}|HelloWord\\HelloWord.csproj|solutionrelative:helloword\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29830EA1-5761-4B1E-AC61-3D10ED51362A}|HelloWord\\HelloWord.csproj|c:\\users\\shu\\desktop\\113_2_sharp\\2025_02_20\\helloword\\helloword\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29830EA1-5761-4B1E-AC61-3D10ED51362A}|HelloWord\\HelloWord.csproj|solutionrelative:helloword\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_02_20\\HelloWord\\HelloWord\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloWord\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_02_20\\HelloWord\\HelloWord\\Form1.cs*",
+              "RelativeToolTip": "HelloWord\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:44:31.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_02_20\\HelloWord\\HelloWord\\Form1.cs",
+              "RelativeDocumentMoniker": "HelloWord\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_02_20\\HelloWord\\HelloWord\\Form1.cs [\u8A2D\u8A08]*",
+              "RelativeToolTip": "HelloWord\\Form1.cs [\u8A2D\u8A08]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:38:41.559Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
