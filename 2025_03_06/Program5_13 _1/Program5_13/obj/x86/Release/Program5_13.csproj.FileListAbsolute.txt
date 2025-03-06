@@ -1,0 +1,9 @@
+C:\csharp\chapter05\Program5_13\Program5_13\bin\Release\Program5_13.exe
+C:\csharp\chapter05\Program5_13\Program5_13\bin\Release\Program5_13.pdb
+C:\csharp\chapter05\Program5_13\Program5_13\obj\x86\Release\ResolveAssemblyReference.cache
+C:\csharp\chapter05\Program5_13\Program5_13\obj\x86\Release\Program5_13.Form1.resources
+C:\csharp\chapter05\Program5_13\Program5_13\obj\x86\Release\Program5_13.Properties.Resources.resources
+C:\csharp\chapter05\Program5_13\Program5_13\obj\x86\Release\GenerateResource.read.1.tlog
+C:\csharp\chapter05\Program5_13\Program5_13\obj\x86\Release\GenerateResource.write.1.tlog
+C:\csharp\chapter05\Program5_13\Program5_13\obj\x86\Release\Program5_13.exe
+C:\csharp\chapter05\Program5_13\Program5_13\obj\x86\Release\Program5_13.pdb

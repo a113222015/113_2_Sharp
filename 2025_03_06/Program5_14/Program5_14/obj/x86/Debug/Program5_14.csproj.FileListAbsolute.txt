@@ -1,0 +1,38 @@
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_14\bin\Debug\Program5_14.exe
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_14\bin\Debug\Program5_14.pdb
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_14\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_14\obj\x86\Debug\Program5_14.Form1.resources
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_14\obj\x86\Debug\Program5_14.Properties.Resources.resources
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_14\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_14\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_14\obj\x86\Debug\Program5_14.exe
+C:\Users\akira\AppData\Local\Temporary Projects\Program5_14\obj\x86\Debug\Program5_14.pdb
+C:\csharp\chapter05\Program5_14\Program5_14\obj\x86\Debug\Program5_14.exe
+C:\csharp\chapter05\Program5_14\Program5_14\obj\x86\Debug\Program5_14.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter05\Program5_14\Program5_14\obj\x86\Debug\Program5_14.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter05\Program5_14\Program5_14\obj\x86\Debug\Program5_14.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter05\Program5_14\Program5_14\bin\Debug\Program5_14.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter05\Program5_14\Program5_14\bin\Debug\Program5_14.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter05\Program5_14\Program5_14\obj\x86\Debug\Program5_14.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter05\Program5_14\Program5_14\obj\x86\Debug\Program5_14.Form1.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter05\Program5_14\Program5_14\obj\x86\Debug\Program5_14.Properties.Resources.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter05\Program5_14\Program5_14\obj\x86\Debug\Program5_14.csproj.GenerateResource.Cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter05\Program5_14\Program5_14\bin\Debug\Program5_14.exe
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter05\Program5_14\Program5_14\bin\Debug\Program5_14.pdb
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter05\Program5_14\Program5_14\obj\x86\Debug\Program5_14.csproj.AssemblyReference.cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter05\Program5_14\Program5_14\obj\x86\Debug\Program5_14.Form1.resources
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter05\Program5_14\Program5_14\obj\x86\Debug\Program5_14.Properties.Resources.resources
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter05\Program5_14\Program5_14\obj\x86\Debug\Program5_14.csproj.GenerateResource.cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter05\Program5_14\Program5_14\obj\x86\Debug\Program5_14.csproj.CoreCompileInputs.cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter05\Program5_14\Program5_14\obj\x86\Debug\Program5_14.exe
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter05\Program5_14\Program5_14\obj\x86\Debug\Program5_14.pdb
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_06\Program5_14\Program5_14\bin\Debug\Program5_14.exe.config
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_06\Program5_14\Program5_14\bin\Debug\Program5_14.exe
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_06\Program5_14\Program5_14\bin\Debug\Program5_14.pdb
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_06\Program5_14\Program5_14\obj\x86\Debug\Program5_14.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_06\Program5_14\Program5_14\obj\x86\Debug\Program5_14.Form1.resources
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_06\Program5_14\Program5_14\obj\x86\Debug\Program5_14.Properties.Resources.resources
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_06\Program5_14\Program5_14\obj\x86\Debug\Program5_14.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_06\Program5_14\Program5_14\obj\x86\Debug\Program5_14.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_06\Program5_14\Program5_14\obj\x86\Debug\Program5_14.exe
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_06\Program5_14\Program5_14\obj\x86\Debug\Program5_14.pdb

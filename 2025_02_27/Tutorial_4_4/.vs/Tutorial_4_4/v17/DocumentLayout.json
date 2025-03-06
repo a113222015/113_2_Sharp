@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{DDD53FF9-9171-49DE-BD35-14A917F1C1D5}|Tutorial_4_4\\Tutorial_4_4.csproj|solutionrelative:tutorial_4_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDD53FF9-9171-49DE-BD35-14A917F1C1D5}|Tutorial_4_4\\Tutorial_4_4.csproj|c:\\users\\shu\\desktop\\113_2_sharp\\2025_02_27\\tutorial_4_4\\tutorial_4_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DDD53FF9-9171-49DE-BD35-14A917F1C1D5}|Tutorial_4_4\\Tutorial_4_4.csproj|C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_02_27\\Tutorial_4_4\\tutorial_4_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DDD53FF9-9171-49DE-BD35-14A917F1C1D5}|Tutorial_4_4\\Tutorial_4_4.csproj|solutionrelative:tutorial_4_4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +28,7 @@
               "RelativeDocumentMoniker": "Tutorial_4_4\\Form1.cs",
               "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_02_27\\Tutorial_4_4\\Tutorial_4_4\\Form1.cs",
               "RelativeToolTip": "Tutorial_4_4\\Form1.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAqwDsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwDQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T03:33:16.057Z",
               "EditorCaption": ""
