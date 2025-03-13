@@ -1,0 +1,57 @@
+C:\Users\akira\AppData\Local\Temporary Projects\Program6_10\bin\Debug\Program6_10.exe
+C:\Users\akira\AppData\Local\Temporary Projects\Program6_10\bin\Debug\Program6_10.pdb
+C:\Users\akira\AppData\Local\Temporary Projects\Program6_10\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\akira\AppData\Local\Temporary Projects\Program6_10\obj\x86\Debug\Program6_10.Form1.resources
+C:\Users\akira\AppData\Local\Temporary Projects\Program6_10\obj\x86\Debug\Program6_10.Properties.Resources.resources
+C:\Users\akira\AppData\Local\Temporary Projects\Program6_10\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\akira\AppData\Local\Temporary Projects\Program6_10\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\akira\AppData\Local\Temporary Projects\Program6_10\obj\x86\Debug\Program6_10.exe
+C:\Users\akira\AppData\Local\Temporary Projects\Program6_10\obj\x86\Debug\Program6_10.pdb
+C:\csharp\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.exe
+C:\csharp\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\bin\Debug\Program6_10.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\bin\Debug\Program6_10.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.Form1.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.Properties.Resources.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.csproj.GenerateResource.Cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\bin\Debug\Program6_10.exe
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\bin\Debug\Program6_10.pdb
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.csprojAssemblyReference.cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.Form1.resources
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.Properties.Resources.resources
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.csproj.GenerateResource.cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.csproj.CoreCompileInputs.cache
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.exe
+D:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.pdb
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\bin\Debug\Program6_10.exe
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\bin\Debug\Program6_10.pdb
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.csproj.AssemblyReference.cache
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.Form1.resources
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.Properties.Resources.resources
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.csproj.GenerateResource.cache
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.csproj.CoreCompileInputs.cache
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.exe
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Solutions to Programming Problems\chapter06\Program6_10\Program6_10\obj\x86\Debug\Program6_10.pdb
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_03_13\Program6_10\Program6_10\bin\Debug\Program6_10.exe.config
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_03_13\Program6_10\Program6_10\bin\Debug\Program6_10.exe
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_03_13\Program6_10\Program6_10\bin\Debug\Program6_10.pdb
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_03_13\Program6_10\Program6_10\obj\x86\Debug\Program6_10.csproj.AssemblyReference.cache
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_03_13\Program6_10\Program6_10\obj\x86\Debug\Program6_10.Form1.resources
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_03_13\Program6_10\Program6_10\obj\x86\Debug\Program6_10.Properties.Resources.resources
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_03_13\Program6_10\Program6_10\obj\x86\Debug\Program6_10.csproj.GenerateResource.cache
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_03_13\Program6_10\Program6_10\obj\x86\Debug\Program6_10.csproj.CoreCompileInputs.cache
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_03_13\Program6_10\Program6_10\obj\x86\Debug\Program6_10.exe
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_03_13\Program6_10\Program6_10\obj\x86\Debug\Program6_10.pdb
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program6_10\Program6_10\bin\Debug\Program6_10.exe.config
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program6_10\Program6_10\bin\Debug\Program6_10.exe
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program6_10\Program6_10\bin\Debug\Program6_10.pdb
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program6_10\Program6_10\obj\x86\Debug\Program6_10.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program6_10\Program6_10\obj\x86\Debug\Program6_10.Form1.resources
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program6_10\Program6_10\obj\x86\Debug\Program6_10.Properties.Resources.resources
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program6_10\Program6_10\obj\x86\Debug\Program6_10.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program6_10\Program6_10\obj\x86\Debug\Program6_10.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program6_10\Program6_10\obj\x86\Debug\Program6_10.exe
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program6_10\Program6_10\obj\x86\Debug\Program6_10.pdb

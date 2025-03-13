@@ -1,0 +1,10 @@
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program5_9 _1\Program5_9\bin\Debug\Program5_9.exe.config
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program5_9 _1\Program5_9\bin\Debug\Program5_9.exe
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program5_9 _1\Program5_9\bin\Debug\Program5_9.pdb
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program5_9 _1\Program5_9\obj\x86\Debug\Program5_9_1.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program5_9 _1\Program5_9\obj\x86\Debug\Program5_9.Form1.resources
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program5_9 _1\Program5_9\obj\x86\Debug\Program5_9.Properties.Resources.resources
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program5_9 _1\Program5_9\obj\x86\Debug\Program5_9_1.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program5_9 _1\Program5_9\obj\x86\Debug\Program5_9_1.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program5_9 _1\Program5_9\obj\x86\Debug\Program5_9.exe
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_13\Program5_9 _1\Program5_9\obj\x86\Debug\Program5_9.pdb
