@@ -20,7 +20,7 @@ namespace Program6_10
         }
 
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)//程式載入時執行
         {
             getCompChoice();
         }
