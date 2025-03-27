@@ -1,12 +1,53 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_03_20\\Display Elements\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFB1287-30DA-4FD4-955D-42B3AC14AB04}|Display Elements\\Display Elements.csproj|c:\\users\\shu\\desktop\\113_2_sharp\\2025_03_20\\display elements\\display elements\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CFB1287-30DA-4FD4-955D-42B3AC14AB04}|Display Elements\\Display Elements.csproj|solutionrelative:display elements\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CFB1287-30DA-4FD4-955D-42B3AC14AB04}|Display Elements\\Display Elements.csproj|c:\\users\\shu\\desktop\\113_2_sharp\\2025_03_20\\display elements\\display elements\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CFB1287-30DA-4FD4-955D-42B3AC14AB04}|Display Elements\\Display Elements.csproj|solutionrelative:display elements\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_03_20\\Display Elements\\Display Elements\\Form1.cs",
+              "RelativeDocumentMoniker": "Display Elements\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_03_20\\Display Elements\\Display Elements\\Form1.cs",
+              "RelativeToolTip": "Display Elements\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:46:19.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_03_20\\Display Elements\\Display Elements\\Form1.cs",
+              "RelativeDocumentMoniker": "Display Elements\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_03_20\\Display Elements\\Display Elements\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Display Elements\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:46:11.88Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

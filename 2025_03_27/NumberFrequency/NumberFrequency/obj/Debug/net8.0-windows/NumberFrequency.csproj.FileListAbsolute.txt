@@ -1,0 +1,17 @@
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_27\NumberFrequency\NumberFrequency\bin\Debug\net8.0-windows\NumberFrequency.exe
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_27\NumberFrequency\NumberFrequency\bin\Debug\net8.0-windows\NumberFrequency.deps.json
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_27\NumberFrequency\NumberFrequency\bin\Debug\net8.0-windows\NumberFrequency.runtimeconfig.json
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_27\NumberFrequency\NumberFrequency\bin\Debug\net8.0-windows\NumberFrequency.dll
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_27\NumberFrequency\NumberFrequency\bin\Debug\net8.0-windows\NumberFrequency.pdb
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_27\NumberFrequency\NumberFrequency\obj\Debug\net8.0-windows\NumberFrequency.Form1.resources
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_27\NumberFrequency\NumberFrequency\obj\Debug\net8.0-windows\NumberFrequency.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_27\NumberFrequency\NumberFrequency\obj\Debug\net8.0-windows\NumberFrequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_27\NumberFrequency\NumberFrequency\obj\Debug\net8.0-windows\NumberFrequency.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_27\NumberFrequency\NumberFrequency\obj\Debug\net8.0-windows\NumberFrequency.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_27\NumberFrequency\NumberFrequency\obj\Debug\net8.0-windows\NumberFrequency.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_27\NumberFrequency\NumberFrequency\obj\Debug\net8.0-windows\NumberFrequency.sourcelink.json
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_27\NumberFrequency\NumberFrequency\obj\Debug\net8.0-windows\NumberFrequency.dll
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_27\NumberFrequency\NumberFrequency\obj\Debug\net8.0-windows\refint\NumberFrequency.dll
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_27\NumberFrequency\NumberFrequency\obj\Debug\net8.0-windows\NumberFrequency.pdb
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_27\NumberFrequency\NumberFrequency\obj\Debug\net8.0-windows\NumberFrequency.genruntimeconfig.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_03_27\NumberFrequency\NumberFrequency\obj\Debug\net8.0-windows\ref\NumberFrequency.dll
