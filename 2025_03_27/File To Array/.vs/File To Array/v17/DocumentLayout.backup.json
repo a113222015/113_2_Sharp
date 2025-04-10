@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_03_27\\File To Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52C911B6-FE13-4A99-AAF9-52A5DB26DBEC}|File To Array\\File To Array.csproj|c:\\users\\shu\\desktop\\113_2_sharp\\2025_03_27\\file to array\\file to array\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C911B6-FE13-4A99-AAF9-52A5DB26DBEC}|File To Array\\File To Array.csproj|solutionrelative:file to array\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C911B6-FE13-4A99-AAF9-52A5DB26DBEC}|File To Array\\File To Array.csproj|c:\\users\\shu\\desktop\\113_2_sharp\\2025_03_27\\file to array\\file to array\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52C911B6-FE13-4A99-AAF9-52A5DB26DBEC}|File To Array\\File To Array.csproj|solutionrelative:file to array\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_03_27\\File To Array\\File To Array\\Form1.cs",
+              "RelativeDocumentMoniker": "File To Array\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_03_27\\File To Array\\File To Array\\Form1.cs",
+              "RelativeToolTip": "File To Array\\Form1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T03:16:48.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_03_27\\File To Array\\File To Array\\Form1.cs",
+              "RelativeDocumentMoniker": "File To Array\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_03_27\\File To Array\\File To Array\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "File To Array\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T03:16:41.084Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

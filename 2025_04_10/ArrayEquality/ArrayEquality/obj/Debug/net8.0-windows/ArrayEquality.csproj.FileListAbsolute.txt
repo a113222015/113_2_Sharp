@@ -1,0 +1,17 @@
+C:\Users\shu\Desktop\113_2_Sharp\2025_04_10\ArrayEquality\ArrayEquality\bin\Debug\net8.0-windows\ArrayEquality.exe
+C:\Users\shu\Desktop\113_2_Sharp\2025_04_10\ArrayEquality\ArrayEquality\bin\Debug\net8.0-windows\ArrayEquality.deps.json
+C:\Users\shu\Desktop\113_2_Sharp\2025_04_10\ArrayEquality\ArrayEquality\bin\Debug\net8.0-windows\ArrayEquality.runtimeconfig.json
+C:\Users\shu\Desktop\113_2_Sharp\2025_04_10\ArrayEquality\ArrayEquality\bin\Debug\net8.0-windows\ArrayEquality.dll
+C:\Users\shu\Desktop\113_2_Sharp\2025_04_10\ArrayEquality\ArrayEquality\bin\Debug\net8.0-windows\ArrayEquality.pdb
+C:\Users\shu\Desktop\113_2_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\net8.0-windows\ArrayEquality.Form1.resources
+C:\Users\shu\Desktop\113_2_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\net8.0-windows\ArrayEquality.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\net8.0-windows\ArrayEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_2_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\net8.0-windows\ArrayEquality.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\net8.0-windows\ArrayEquality.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_2_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\net8.0-windows\ArrayEquality.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\net8.0-windows\ArrayEquality.sourcelink.json
+C:\Users\shu\Desktop\113_2_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\net8.0-windows\ArrayEquality.dll
+C:\Users\shu\Desktop\113_2_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\net8.0-windows\refint\ArrayEquality.dll
+C:\Users\shu\Desktop\113_2_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\net8.0-windows\ArrayEquality.pdb
+C:\Users\shu\Desktop\113_2_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\net8.0-windows\ArrayEquality.genruntimeconfig.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_04_10\ArrayEquality\ArrayEquality\obj\Debug\net8.0-windows\ref\ArrayEquality.dll
