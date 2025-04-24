@@ -38,6 +38,7 @@
             this.averageScoreLabel = new System.Windows.Forms.Label();
             this.getScoresButton = new System.Windows.Forms.Button();
             this.exitButton = new System.Windows.Forms.Button();
+            this.deleteButton = new System.Windows.Forms.Button(); // 新增刪除按鍵
             this.openFile = new System.Windows.Forms.OpenFileDialog();
             this.SuspendLayout();
             // 
@@ -133,6 +134,15 @@
             this.exitButton.UseVisualStyleBackColor = true;
             this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
             // 
+            // deleteButton
+            // 
+            this.deleteButton.Location = new System.Drawing.Point(252, 138);
+            this.deleteButton.Name = "deleteButton";
+            this.deleteButton.Size = new System.Drawing.Size(75, 21);
+            this.deleteButton.TabIndex = 15;
+            this.deleteButton.Text = "刪除";
+            this.deleteButton.UseVisualStyleBackColor = true;
+            // 
             // openFile
             // 
             this.openFile.FileName = "openFileDialog1";
@@ -142,6 +152,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(336, 173);
+            this.Controls.Add(this.deleteButton);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.getScoresButton);
             this.Controls.Add(this.averageScoreLabel);
@@ -171,6 +182,7 @@
         private System.Windows.Forms.Label averageScoreLabel;
         private System.Windows.Forms.Button getScoresButton;
         private System.Windows.Forms.Button exitButton;
+        private System.Windows.Forms.Button deleteButton; // 新增刪除按鍵
         private System.Windows.Forms.OpenFileDialog openFile;
     }
 }
