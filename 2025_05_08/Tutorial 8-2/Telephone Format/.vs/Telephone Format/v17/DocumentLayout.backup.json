@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_05_08\\Tutorial 8-2\\Telephone Format\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{332BDDAE-8574-43D1-B154-FDE05F04BD74}|Telephone Format\\Telephone Format.csproj|c:\\users\\shu\\desktop\\113_2_sharp\\2025_05_08\\tutorial 8-2\\telephone format\\telephone format\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332BDDAE-8574-43D1-B154-FDE05F04BD74}|Telephone Format\\Telephone Format.csproj|solutionrelative:telephone format\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332BDDAE-8574-43D1-B154-FDE05F04BD74}|Telephone Format\\Telephone Format.csproj|c:\\users\\shu\\desktop\\113_2_sharp\\2025_05_08\\tutorial 8-2\\telephone format\\telephone format\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{332BDDAE-8574-43D1-B154-FDE05F04BD74}|Telephone Format\\Telephone Format.csproj|solutionrelative:telephone format\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{332BDDAE-8574-43D1-B154-FDE05F04BD74}|Telephone Format\\Telephone Format.csproj|C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_05_08\\Tutorial 8-2\\Telephone Format\\telephone format\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{332BDDAE-8574-43D1-B154-FDE05F04BD74}|Telephone Format\\Telephone Format.csproj|solutionrelative:telephone format\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_05_08\\Tutorial 8-2\\Telephone Format\\Telephone Format\\Program.cs",
+              "RelativeDocumentMoniker": "Telephone Format\\Program.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_05_08\\Tutorial 8-2\\Telephone Format\\Telephone Format\\Program.cs",
+              "RelativeToolTip": "Telephone Format\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:05:12.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_05_08\\Tutorial 8-2\\Telephone Format\\Telephone Format\\Form1.cs",
+              "RelativeDocumentMoniker": "Telephone Format\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_05_08\\Tutorial 8-2\\Telephone Format\\Telephone Format\\Form1.cs*",
+              "RelativeToolTip": "Telephone Format\\Form1.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswCMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:06:18.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_05_08\\Tutorial 8-2\\Telephone Format\\Telephone Format\\Form1.cs",
+              "RelativeDocumentMoniker": "Telephone Format\\Form1.cs",
+              "ToolTip": "E:\\Git Repos\\113_2_C_Sharp_Tutorial\\114_04_17\\Tutorial 8-2\\Telephone Format\\Telephone Format\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:06:03.022Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

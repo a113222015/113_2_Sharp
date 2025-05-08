@@ -1,0 +1,31 @@
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\bin\Debug\CSV Reader.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\bin\Debug\CSV Reader.pdb
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\bin\Debug\CSV Reader.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\bin\Debug\CSV Reader.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\bin\Debug\CSV Reader.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\bin\Debug\CSV Reader.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csproj.GenerateResource.Cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\bin\Debug\CSV Reader.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\bin\Debug\CSV Reader.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV_Reader.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-4\CSV Reader\CSV Reader\obj\x86\Debug\CSV Reader.csproj.GenerateResource.Cache
