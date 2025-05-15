@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_05_15\\Car List\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC2A26-7FB5-4F6E-BCCA-2E1404F286EC}|Car List\\Car List.csproj|c:\\users\\shu\\desktop\\113_2_sharp\\2025_05_15\\car list\\car list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC2A26-7FB5-4F6E-BCCA-2E1404F286EC}|Car List\\Car List.csproj|solutionrelative:car list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC2A26-7FB5-4F6E-BCCA-2E1404F286EC}|Car List\\Car List.csproj|C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_05_15\\Car List\\car list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94CC2A26-7FB5-4F6E-BCCA-2E1404F286EC}|Car List\\Car List.csproj|solutionrelative:car list\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94CC2A26-7FB5-4F6E-BCCA-2E1404F286EC}|Car List\\Car List.csproj|c:\\users\\shu\\desktop\\113_2_sharp\\2025_05_15\\car list\\car list\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94CC2A26-7FB5-4F6E-BCCA-2E1404F286EC}|Car List\\Car List.csproj|solutionrelative:car list\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_05_15\\Car List\\Car List\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Car List\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_05_15\\Car List\\Car List\\Form1.Designer.cs",
+              "RelativeToolTip": "Car List\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T04:52:43.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_05_15\\Car List\\Car List\\Form1.cs",
+              "RelativeDocumentMoniker": "Car List\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_05_15\\Car List\\Car List\\Form1.cs",
+              "RelativeToolTip": "Car List\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:21:01.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_05_15\\Car List\\Car List\\Form1.cs",
+              "RelativeDocumentMoniker": "Car List\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_Sharp\\2025_05_15\\Car List\\Car List\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Car List\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T08:20:50.493Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
