@@ -1,0 +1,72 @@
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csproj.GenerateResource.Cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csproj.GenerateResource.Cache
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csproj.AssemblyReference.cache
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Form1.resources
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Properties.Resources.resources
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csproj.GenerateResource.cache
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csproj.CoreCompileInputs.cache
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.exe
+F:\LectureNotes\Programming\Visual C#\Gaddis-Starting out with Visual C#, Global Edition, 4E\ISM\Completed Tutorials\Chapter 08\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.pdb
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_04_17\Tutorial 8-5\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_04_17\Tutorial 8-5\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_04_17\Tutorial 8-5\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_04_17\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csproj.AssemblyReference.cache
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_04_17\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Form1.resources
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_04_17\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Properties.Resources.resources
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_04_17\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csproj.GenerateResource.cache
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_04_17\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csproj.CoreCompileInputs.cache
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_04_17\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.exe
+E:\Git Repos\113_2_C_Sharp_Tutorial\114_04_17\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.pdb
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-5\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-5\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-5\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Form1.resources
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Properties.Resources.resources
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.exe
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-5\Phonebook\Phonebook\obj\x86\Debug\Phonebook.pdb
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Phonebook\Phonebook\bin\Debug\Phonebook.exe.config
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Phonebook\Phonebook\bin\Debug\Phonebook.exe
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Phonebook\Phonebook\bin\Debug\Phonebook.pdb
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Form1.resources
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Phonebook\Phonebook\obj\x86\Debug\Phonebook.Properties.Resources.resources
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Phonebook\Phonebook\obj\x86\Debug\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Phonebook\Phonebook\obj\x86\Debug\Phonebook.exe
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Phonebook\Phonebook\obj\x86\Debug\Phonebook.pdb

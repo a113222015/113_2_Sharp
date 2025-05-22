@@ -1,0 +1,36 @@
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\bin\Debug\Random Card.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\bin\Debug\Random Card.pdb
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random_Card.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random_Card.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random Card.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random Card.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random Card.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random Card.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\bin\Debug\Random Card.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\bin\Debug\Random Card.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random Card.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random_Card.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random_Card.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random Card.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random Card.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random Card.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\bin\Debug\Random Card.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\bin\Debug\Random Card.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random Card.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random_Card.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random_Card.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random Card.csproj.GenerateResource.Cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random Card.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 08\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random Card.pdb
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-7\Random Card\Random Card\bin\Debug\Random Card.exe
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-7\Random Card\Random Card\bin\Debug\Random Card.pdb
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random Card.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random_Card.Form1.resources
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random_Card.Properties.Resources.resources
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random Card.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random Card.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random Card.exe
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_22\Tutorial 8-7\Random Card\Random Card\obj\x86\Debug\Random Card.pdb
