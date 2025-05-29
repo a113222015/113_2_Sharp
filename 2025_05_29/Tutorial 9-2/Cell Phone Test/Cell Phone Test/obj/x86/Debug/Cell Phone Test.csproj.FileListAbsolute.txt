@@ -1,0 +1,53 @@
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.pdb
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell_Phone_Test.Form1.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell_Phone_Test.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.exe
+C:\Users\Tony\Documents\Books\C#\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.exe
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.pdb
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell_Phone_Test.Form1.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell_Phone_Test.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\3rd Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.csproj.GenerateResource.Cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.exe
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.pdb
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell_Phone_Test.Form1.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell_Phone_Test.Properties.Resources.resources
+C:\Users\Tony\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.csproj.GenerateResource.Cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.exe
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.pdb
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.csprojResolveAssemblyReference.cache
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell_Phone_Test.Form1.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell_Phone_Test.Properties.Resources.resources
+D:\Documents\Books\C#\4th Edition\Completed Tutorials\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.csproj.GenerateResource.Cache
+C:\Users\User\OneDrive - Shih Hsin University\Desktop\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.exe.config
+C:\Users\User\OneDrive - Shih Hsin University\Desktop\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.exe
+C:\Users\User\OneDrive - Shih Hsin University\Desktop\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.pdb
+C:\Users\User\OneDrive - Shih Hsin University\Desktop\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Shih Hsin University\Desktop\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell_Phone_Test.Form1.resources
+C:\Users\User\OneDrive - Shih Hsin University\Desktop\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell_Phone_Test.Properties.Resources.resources
+C:\Users\User\OneDrive - Shih Hsin University\Desktop\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - Shih Hsin University\Desktop\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Shih Hsin University\Desktop\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.exe
+C:\Users\User\OneDrive - Shih Hsin University\Desktop\Chapter 09\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.pdb
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_29\Tutorial 9-2\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.exe.config
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_29\Tutorial 9-2\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.exe
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_29\Tutorial 9-2\Cell Phone Test\Cell Phone Test\bin\Debug\Cell Phone Test.pdb
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_29\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_29\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell_Phone_Test.Form1.resources
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_29\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell_Phone_Test.Properties.Resources.resources
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_29\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_29\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_29\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.exe
+C:\Users\shu\Desktop\113_2_Sharp\2025_05_29\Tutorial 9-2\Cell Phone Test\Cell Phone Test\obj\x86\Debug\Cell Phone Test.pdb
