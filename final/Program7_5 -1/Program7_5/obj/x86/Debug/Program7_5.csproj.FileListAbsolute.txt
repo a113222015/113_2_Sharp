@@ -1,0 +1,35 @@
+C:\csharp\chapter07\Program7_5\Program7_5\bin\Debug\Program7_5.exe
+C:\csharp\chapter07\Program7_5\Program7_5\bin\Debug\Program7_5.pdb
+C:\csharp\chapter07\Program7_5\Program7_5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\csharp\chapter07\Program7_5\Program7_5\obj\x86\Debug\Program7_5.Form1.resources
+C:\csharp\chapter07\Program7_5\Program7_5\obj\x86\Debug\Program7_5.Properties.Resources.resources
+C:\csharp\chapter07\Program7_5\Program7_5\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\csharp\chapter07\Program7_5\Program7_5\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\csharp\chapter07\Program7_5\Program7_5\obj\x86\Debug\Program7_5.exe
+C:\csharp\chapter07\Program7_5\Program7_5\obj\x86\Debug\Program7_5.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_5\Program7_5\obj\x86\Debug\Program7_5.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_5\Program7_5\obj\x86\Debug\Program7_5.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_5\Program7_5\bin\Debug\Program7_5.exe
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_5\Program7_5\bin\Debug\Program7_5.pdb
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_5\Program7_5\obj\x86\Debug\Program7_5.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_5\Program7_5\obj\x86\Debug\Program7_5.Form1.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_5\Program7_5\obj\x86\Debug\Program7_5.Properties.Resources.resources
+C:\Users\Chris\Desktop\C#\Solutions Manual\Solutions to Programming Problems\chapter07\Program7_5\Program7_5\obj\x86\Debug\Program7_5.csproj.GenerateResource.Cache
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5\Program7_5\bin\Debug\Program7_5.exe
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5\Program7_5\bin\Debug\Program7_5.pdb
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5\Program7_5\obj\x86\Debug\Program7_5.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5\Program7_5\obj\x86\Debug\Program7_5.Form1.resources
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5\Program7_5\obj\x86\Debug\Program7_5.Properties.Resources.resources
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5\Program7_5\obj\x86\Debug\Program7_5.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5\Program7_5\obj\x86\Debug\Program7_5.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5\Program7_5\obj\x86\Debug\Program7_5.exe
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5\Program7_5\obj\x86\Debug\Program7_5.pdb
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5 - 複製\Program7_5\bin\Debug\Program7_5.exe
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5 - 複製\Program7_5\bin\Debug\Program7_5.pdb
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5 - 複製\Program7_5\obj\x86\Debug\Program7_5.csproj.AssemblyReference.cache
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5 - 複製\Program7_5\obj\x86\Debug\Program7_5.Form1.resources
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5 - 複製\Program7_5\obj\x86\Debug\Program7_5.Properties.Resources.resources
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5 - 複製\Program7_5\obj\x86\Debug\Program7_5.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5 - 複製\Program7_5\obj\x86\Debug\Program7_5.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5 - 複製\Program7_5\obj\x86\Debug\Program7_5.exe
+C:\Users\shu\Desktop\113_2_Sharp\final\Program7_5 - 複製\Program7_5\obj\x86\Debug\Program7_5.pdb
